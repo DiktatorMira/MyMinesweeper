@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\minesweeper\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u044F \u0431\u0430\u0437\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\minesweeper\\minesweeper\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C46153E-8890-497E-8D32-342BD358FFC5}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minesweeper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Minesweeper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Minesweeper.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\Minesweeper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-19T09:44:37.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Minesweeper\\Controllers\\MainController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAuwMsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-11T08:02:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Controllers\\Database.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Controllers\\Database.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Controllers\\Database.cs",
+              "RelativeToolTip": "Minesweeper\\Controllers\\Database.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-11T08:02:48.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minesweeper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Minesweeper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u044F \u0431\u0430\u0437\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B(\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435)\\Minesweeper\\Minesweeper\\Minesweeper.cs",
+              "RelativeToolTip": "Minesweeper\\Minesweeper.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA2wNABAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-11T08:02:48.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
